@@ -7,7 +7,7 @@ Furthermore, disk storage and memory storage support has been added using multer
 
 ## 🚀 Features
 
-- 👤 **User Management**
+## 👤 **User Management**
 - User registration
 - Login
 - Change password
@@ -15,23 +15,23 @@ Furthermore, disk storage and memory storage support has been added using multer
 - Authenticate with JWT
 - Passwords are hashed and salted with bcrypt
 
-- 🏞️ **Tours**
+## 🏞️ **Tours**
 - List all tours
 - View individual tour details
 - Add new tours (admin/moderator)
 - Update & delete tours (admin/moderator)
 - 📷 **Upload tour images (multer + diskStorage)**
 
-- ⭐ **Reviews & Reviews**
+## ⭐ **Reviews & Reviews**
 - Users can add comments to tours
 - Give ratings
 - Update/delete comments (only for their own reviews)
 
-- 📂 **File Upload**
+## 📂 **File Upload**
 - `multer.diskStorage` → Files are saved to disk
 - `multer.memoryStorage` → Files are stored in RAM
 
-- 🔐 **Security**
+## 🔐 **Security**
 - JWT Authentication
 - Role-based Authorization (user/admin)
 - Rate Limiting
