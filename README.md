@@ -5,7 +5,7 @@ It was developed using JWT-based authentication, secure password storage (hash &
 
 Furthermore, disk storage and memory storage support has been added using multer for file uploads.
 
-## 🚀 Features
+ 🚀 Features
 
 ## 👤 **User Management**
 - User registration
