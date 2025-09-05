@@ -47,3 +47,4 @@ Furthermore, disk storage and memory storage support has been added using multer
 - [JWT]
 - [bcrypt]
 - [Multer] → For file uploads
+- [Postman] 
